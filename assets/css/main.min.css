@@ -27709,8 +27709,8 @@ body.dark-v .slide-container {
 }
 
 .mission-sec .vlm-text {
-    padding-left: 90px;
-    margin-top: 45px
+    padding-left: 0px;
+    margin-top: 25px
 }
 
 .mission-sec .vlm-text>h2 {
@@ -28614,7 +28614,7 @@ body.dark-v .slide-container {
 }
 
 .misson-section-v8 .mission-sec {
-    margin-top: 206px;
+    margin-top: 60px;
 }
 
 .misson-section-v8 .mission-sec .crlce-misz:after {
@@ -29144,7 +29144,7 @@ body.dark-v .slide-container {
 }
 
 .our-fzt .fzt-icon.v3 {
-    margin-top: 0px
+    margin-top: 30px
 }
 
 .our-fzt .fzt-icon.v3:before {
@@ -31053,7 +31053,7 @@ body.dark-v .slide-container {
 .single-post-layout1 .blog-posts-layout2 .bg-post .bg-post-info p {
     font-size: 18px;
     line-height: 30px;
-    margin-bottom: 10px
+    margin-bottom: 20px
 }
 
 .single-post-layout1 .blog-posts-layout2 .bg-post .bg-post-info p strong {
@@ -31617,7 +31617,7 @@ body.dark-v .slide-container {
 }
 
 .about-v1-page {
-    padding: 54px 0 116px;
+    padding: 0px 0 20px;
 }
 
 .about-agency-content {
@@ -33745,7 +33745,7 @@ polygon.arrow-top {
 }
 
 .ppr-sldr .pp-info .pp-dt {
-    padding-left: 20px
+    padding-left: 0px
 }
 
 .ppr-sldr .pp-info .pp-dt>h3 {
@@ -40133,7 +40133,7 @@ header.header-v12.v13.pb .light-logo {
         margin-bottom: 60px
     }
     .recent-works-v6-sec .rc-work-content .row .col-lg-7 {
-        padding-right: 15px
+        padding-right: 0px
     }
     .recent-works-v6-sec .rc-work-content .btn-deafult-v6 {
         position: static;
