@@ -33678,8 +33678,8 @@ polygon.arrow-top {
     color: #000;
     font-size: 48px;
     line-height: 60px;
-    margin-bottom: 70px;
-    max-width: 370px
+    margin-bottom: 40px;
+    max-width: 520px
 }
 
 .project-v1-info .project-dt .dd-tinfo {
@@ -40133,7 +40133,7 @@ header.header-v12.v13.pb .light-logo {
         margin-bottom: 60px
     }
     .recent-works-v6-sec .rc-work-content .row .col-lg-7 {
-        padding-right: 0px
+        padding-right: 15px
     }
     .recent-works-v6-sec .rc-work-content .btn-deafult-v6 {
         position: static;
