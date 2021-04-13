@@ -11503,11 +11503,6 @@ html {
     height: 100%
 }
 
-.animated {
-    animation-duration: .6s;
-    animation-fill-mode: both
-}
-
 .animated.infinite {
     animation-iteration-count: infinite
 }
@@ -42528,4 +42523,11 @@ header.header-v12.v13.pb .light-logo {
 
 .blog-posts-v10.row {
     margin-bottom: -4px;
+}
+
+/*Comentario de Card Gris*/
+.bg-card {
+  background-color: #f1f6fa;
+  border: 1px solid #f1f6fa;
+  border-radius: 10px;
 }

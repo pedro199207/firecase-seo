@@ -2,14 +2,14 @@
 $(window).on("load", function() {
     "use strict";
 
-    
-    jQuery(window).on("scroll", function () {
-        if (jQuery(this).scrollTop() > 1) {
-            jQuery("header").addClass("sticky animated slideInDown");
-        } else {
-            jQuery("header").removeClass("sticky animated slideInDown");
-        }
-    });
+
+    // jQuery(window).on("scroll", function () {
+    //     if (jQuery(this).scrollTop() > 1) {
+    //         jQuery("header").addClass("sticky animated slideInDown");
+    //     } else {
+    //         jQuery("header").removeClass("sticky animated slideInDown");
+    //     }
+    // });
 
     // CUSTOM TABS
 
@@ -21,7 +21,7 @@ $(window).on("load", function() {
         $("#" + tab_idd).addClass("active animated fadeIn");
     });
 
-    // SEARCH FORM 
+    // SEARCH FORM
 
     $(".searchh, .header-v5 .header-content .search-hd>a").on("click", function() {
       $(".search-form-field").slideToggle();
@@ -36,7 +36,7 @@ $(window).on("load", function() {
       $(this).removeClass("not-active");
       $(this).addClass("active");
     });
-    
+
     $('.a-nav-toggle').on('click', function() {
         if ($('html').hasClass('body-menu-opened')) {
             $('html').removeClass('body-menu-opened').addClass('body-menu-close');
@@ -46,7 +46,7 @@ $(window).on("load", function() {
     });
 
 
-    // RESPONSIVE MOBILE MENU 
+    // RESPONSIVE MOBILE MENU
 
     $(".nav-toggle-btn").on("click", function(){
       $(".responsive-menu").toggleClass("active");
@@ -97,6 +97,6 @@ $(window).on("load", function() {
         $('body, html').animate({scrollTop: pos});
     });
 
-    
+
 
 });
