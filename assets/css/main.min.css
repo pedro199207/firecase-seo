@@ -27709,7 +27709,7 @@ body.dark-v .slide-container {
 }
 
 .mission-sec .vlm-text {
-    padding-left: 0px;
+    padding-left: 40px;
     margin-top: 25px
 }
 
@@ -38070,8 +38070,8 @@ header.header-v12.v13.pb .light-logo {
         margin: 0 auto
     }
     .mission-sec .vlm-text {
-        padding-left: 0;
-        margin-top: 100px
+        padding-left: 90px;
+        margin-top: 45px
     }
     .book-img>img {
         max-width: 100%
