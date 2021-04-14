@@ -27704,7 +27704,7 @@ body.dark-v .slide-container {
 }
 
 .mission-sec .vlm-text {
-    padding-left: 40px;
+    /* padding-left: 15px; */
     margin-top: 25px
 }
 
@@ -38065,7 +38065,7 @@ header.header-v12.v13.pb .light-logo {
         margin: 0 auto
     }
     .mission-sec .vlm-text {
-        padding-left: 90px;
+        /* padding-left: 90px; */
         margin-top: 45px
     }
     .book-img>img {
