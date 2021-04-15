@@ -4935,7 +4935,7 @@ input[type=submit].btn-block {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     min-height: 1px;
-    padding: 1.25rem
+    padding: 2.25rem
 }
 
 .card-title {
@@ -21569,7 +21569,7 @@ section {
 
 body {
     font-family: DM Sans, sans-serif;
-    color: #aeb4b6;
+    color: #000000;
     font-size: 16px;
     font-weight: 400;
     position: relative
