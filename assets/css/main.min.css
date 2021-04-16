@@ -26313,7 +26313,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .footer-v6 .footer-content-v6 .get-touch-txt ul li a:hover {
-    color: #ff4800
+    color: #305bce
 }
 
 .footer-v6 .footer-content-v6 .mile-bottom-footer {
@@ -26325,7 +26325,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .footer-v6 .footer-content-v6 .mile-bottom-footer .social-header li a:hover {
-    color: #ff4800
+    color: #305bce
 }
 
 .header-v4 {
@@ -28114,7 +28114,7 @@ body.dark-v .slide-container {
 }
 
 .blog-post-v7 .blog-info>h2:hover {
-    color: #ff4800
+    color: #305bce
 }
 
 .blog-post-v7 .blog-info .meta2 li {
@@ -28178,7 +28178,7 @@ body.dark-v .slide-container {
     right: 0;
     background: inherit;
     border: 0;
-    color: #ff4800;
+    color: #305bce;
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase
@@ -28359,8 +28359,7 @@ body.dark-v .slide-container {
     left: 0;
     width: 100%;
     height: 10px;
-    background-image: url(../img/line.png);
-    background-repeat: no-repeat;
+    background-color: #305bce;
     background-size: cover
 }
 
@@ -28429,7 +28428,7 @@ body.dark-v .slide-container {
 }
 
 .header-content-v8 nav ul li a:hover {
-    color: #ff4800
+    color: #305bce
 }
 
 .header-content-v8 nav ul ul {
@@ -28580,7 +28579,7 @@ body.dark-v .slide-container {
     color: #fff;
     font-size: 20px;
     font-weight: 700;
-    background-color: #ff4800;
+    background-color: #305bce;
     height: 58px;
     line-height: 58px;
     padding: 0 35px;
@@ -28597,14 +28596,14 @@ body.dark-v .slide-container {
     line-height: 52px;
     margin-top: 60px;
     background-color: inherit;
-    border: 1px solid #ff4800;
-    color: #ff4800;
+    border: 1px solid #305bce;
+    color: #305bce;
     font-size: 17px;
     text-transform: capitalize
 }
 
 .btn-default-v8.v2:hover {
-    background-color: #ff4800;
+    background-color: #305bce;
     color: #fff
 }
 
@@ -28624,7 +28623,7 @@ body.dark-v .slide-container {
 }
 
 .misson-section-v8 .mission-sec .crlce-misz .crlce-list li.v1 {
-    background-color: #ff4800
+    background-color: #305bce
 }
 
 .misson-section-v8 .mission-sec .crlce-misz .crlce-list li.v1 .crlce-info>i {
@@ -28681,7 +28680,7 @@ body.dark-v .slide-container {
 }
 
 .grow-business-v8 .counter-sec-v6 li .counter-cont>h2.clr1 {
-    color: #ff4800
+    color: #305bce
 }
 
 .grow-business-v8 .counter-sec-v6 li .counter-cont>h2.clr2 {
@@ -28729,16 +28728,16 @@ body.dark-v .slide-container {
 }
 
 .grw-content-v8 .gr-text .view-btn .pl-btn {
-    background-color: #ff4800;
+    background-color: #305bce;
     color: #fff
 }
 
 .grw-content-v8 .gr-text .view-btn .pl-btn:before {
-    background: #ff4800
+    background: #305bce
 }
 
 .grw-content-v8 .gr-text .view-btn:hover .vt {
-    color: #ff4800
+    color: #305bce
 }
 
 .grw-content-v8 .gw-img {
@@ -28814,7 +28813,7 @@ body.dark-v .slide-container {
     line-height: 50px;
     text-align: center;
     border-radius: 50%;
-    background-color: #ff4800;
+    background-color: #305bce;
     color: #fff;
     font-size: 18px
 }
@@ -28872,7 +28871,7 @@ body.dark-v .slide-container {
 }
 
 .projects-tab-sec .nav-tabs li a.active {
-    color: #ff4800;
+    color: #305bce;
     font-weight: 700
 }
 
@@ -28893,7 +28892,7 @@ body.dark-v .slide-container {
     content: "";
     top: 0;
     height: 100%;
-    background-color: #ff4800
+    background-color: #305bce
 }
 
 .projects-sliders .project-slide .project-slide-info,
@@ -28987,7 +28986,7 @@ body.dark-v .slide-container {
 }
 
 .projects-sliders .slick-dots li.slick-active:before {
-    background-color: #ff4800
+    background-color: #305bce
 }
 
 .projects-sliders .slick-dots li.slick-active button {
@@ -29023,7 +29022,7 @@ body.dark-v .slide-container {
 
 .projects-sliders .slick-next:hover:before,
 .projects-sliders .slick-prev:hover:before {
-    color: #ff4800
+    color: #305bce
 }
 
 .projects-sliders .slick-next.slick-disabled,
@@ -29081,7 +29080,7 @@ body.dark-v .slide-container {
     left: 0;
     width: 0;
     height: 4px;
-    background-color: #ff4800;
+    background-color: #305bce;
     opacity: 0;
     visibility: hidden;
     transition: all .4s ease-in-out
@@ -29102,7 +29101,7 @@ body.dark-v .slide-container {
 }
 
 .our-fzt>h3:hover {
-    color: #ff4800
+    color: #305bce
 }
 
 .our-fzt p {
@@ -29239,12 +29238,12 @@ body.dark-v .slide-container {
 }
 
 .footer-v6.v8 .footer-content-v6 .widget-abt>h2 a {
-    color: #ff4800;
+    color: #305bce;
     margin-left: 10px
 }
 
 .footer-v6.v8 .footer-content-v6 .widget-abt>h2 a:before {
-    background-color: #ff4800
+    background-color: #305bce
 }
 
 .footer-v6.v8 .widget-ft-services>h3 {
@@ -29270,7 +29269,7 @@ body.dark-v .slide-container {
 }
 
 .footer-v6.v8 .widget-ft-services ul li a:hover {
-    color: #ff4800
+    color: #305bce
 }
 
 .main-banner-v9 {
@@ -31868,7 +31867,7 @@ body.dark-v .slide-container {
 }
 
 .business-txt .view-btn .pl-btn:before {
-    background-color: #ff4800
+    background-color: #305bce
 }
 
 .business-txt .view-btn .vt {
@@ -31876,7 +31875,7 @@ body.dark-v .slide-container {
 }
 
 .business-txt .view-btn .vt:hover {
-    color: #ff4800
+    color: #305bce
 }
 
 .about-v9-content.v2 .about-v9-txt>span {
@@ -33494,8 +33493,8 @@ polygon.arrow-top {
 }
 
 .header-content-v8 .chat-btn:hover {
-    border-color: #ff4800 !important;
-    color: #ff4800 !important
+    border-color: #305bce !important;
+    color: #305bce !important
 }
 
 .coming-soon-page .cm-content {
@@ -35432,7 +35431,7 @@ header.header-v12.v13 .menu-btn-v2>span {
 
 .slide-container .about-v4-sec.v11 .about-v4-content .abt-list .abt-content .iconn,
 .slide-container .about-v4-sec.v11 .about-v4-content .abt-list .abt-content>h3:hover {
-    color: #ff4800
+    color: #305bce
 }
 
 .slide-container .about-v4-sec.v11 .about-v4-content .abt-col-text p {
@@ -35470,7 +35469,7 @@ header.header-v12.v13 .menu-btn-v2>span {
 }
 
 .slide-container .why-txt-v9 .us-svs .svs-icon i {
-    color: #ff4800
+    color: #305bce
 }
 
 .slide-container .grw-content-v8 .gr-text>h2 {
@@ -35752,7 +35751,7 @@ header.header-v12.v13.pb .light-logo {
 }
 
 .btn-default.v13 {
-    background-color: #ff4800;
+    background-color: #305bce;
     border-radius: 5px;
     -ms-box-shadow: inherit;
     box-shadow: inherit
@@ -35857,7 +35856,7 @@ header.header-v12.v13.pb .light-logo {
 }
 
 .task-slider .slick-dots li.slick-active:before {
-    background-color: #ff4800
+    background-color: #305bce
 }
 
 .task-slider .slick-dots li.slick-active button {
@@ -36348,11 +36347,11 @@ body.hp13 #pp-nav {
 
 .nav-toggle-btn:hover,
 .nav-toggle-btn:hover .nav-toggle-title {
-    color: #ff4800
+    color: #305bce
 }
 
 .nav-toggle-btn:hover .stick:hover {
-    background-color: #ff4800
+    background-color: #305bce
 }
 
 .nav-toggle-btn:focus {
@@ -36406,11 +36405,11 @@ body.hp13 #pp-nav {
 }
 
 .nav-toggle-btn.white .nav-toggle-title:hover {
-    color: #ff4800
+    color: #305bce
 }
 
 .nav-toggle-btn:hover .stick {
-    background-color: #ff4800
+    background-color: #305bce
 }
 
 .body-menu-opened .nav-toggle-btn {
@@ -36891,7 +36890,7 @@ div#html5-watermark {
 
 .blog-post-v7 .blog-info>h2:hover a,
 .blog-section-v7.v11 .blog-post-v7 .blog-info>h2:hover {
-    color: #ff4800
+    color: #305bce
 }
 
 .book-v7-sec .book-form .bk-form input {
@@ -37052,7 +37051,7 @@ header.v2.sticky .header-content nav ul ul {
 .hp13.pp-viewing-contact .nav-toggle-btn.white .stick:hover,
 .hp13.pp-viewing-services .nav-toggle-btn.white .stick:hover,
 .hp13.pp-viewing-why-choose-us .nav-toggle-btn.white .stick:hover {
-    background-color: #ff4800
+    background-color: #305bce
 }
 
 header.sticky .nav-toggle-btn.stick,
