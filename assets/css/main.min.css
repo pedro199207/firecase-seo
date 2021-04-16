@@ -28652,7 +28652,7 @@ body.dark-v .slide-container {
 }
 
 .misson-section-v8 .mission-sec .crlce-misz .crlce-list li.v2 {
-    background-color: #8EDCE6
+    background-color: #41d3bd
 }
 
 .misson-section-v8 .mission-sec .crlce-misz .crlce-list li.v3 {
@@ -28684,7 +28684,7 @@ body.dark-v .slide-container {
 }
 
 .grow-business-v8 .counter-sec-v6 li .counter-cont>h2.clr2 {
-    color: #8EDCE6
+    color: #41d3bd
 }
 
 .grow-business-v8 .counter-sec-v6 li .counter-cont>h2.clr3 {
@@ -28834,7 +28834,6 @@ body.dark-v .slide-container {
 .title-v8>h2 {
     color: #000;
     font-size: 40px;
-    text-transform: capitalize
 }
 
 .title-v8>p {
@@ -28991,7 +28990,7 @@ body.dark-v .slide-container {
 
 .projects-sliders .slick-dots li.slick-active button {
     background-color: #fff;
-    border-color: #ff530f
+    border-color: #f887bc
 }
 
 .projects-sliders .slick-next,
