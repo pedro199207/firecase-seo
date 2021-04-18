@@ -29209,7 +29209,7 @@ body.dark-v .slide-container {
 
 .footer-v6.v8 {
     background-color: #f2f5fa;
-    padding: 106px 0 120px;
+    padding: 2% 0 2%;
 }
 
 .footer-v6.v8 .mile-bottom-footer .social-header {
@@ -36224,7 +36224,7 @@ body.hp13 #pp-nav {
 }
 
 .mobile-menu {
-    margin-top: 40px;
+    margin-top: 10px;
     transition: all .5s ease-in-out;
     transition-delay: .4s;
     transform: translateY(3rem)
@@ -42478,7 +42478,7 @@ header.header-v12.v13.pb .light-logo {
         top: 16%
     }
     .banner-v8 {
-        padding-top: 60px
+        padding-top: 30%
     }
     .mission-sec .vlm-text {
         margin-top: 50px
