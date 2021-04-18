@@ -21680,15 +21680,15 @@ a {
 }
 
 .btn-default.no-bg {
-    background-color: transparent;
-    color: #f59e31;
-    border: 1px solid #f59e31;
+    background-color: #305bce;
+    color: #fff;
+    border: 1px solid #305bce;
     -ms-box-shadow: inherit;
     box-shadow: inherit
 }
 
 .btn-default.no-bg:hover {
-    background-color: #f59e31;
+    background-color: #305bce;
     border-color: transparent;
     color: #fff
 }
@@ -28378,8 +28378,8 @@ body.dark-v .slide-container {
 }
 
 .header-content-v8 .logo-v8 {
-    max-width: 370px;
-    -ms-flex: 0 0 370px;
+    max-width: 250px;
+    -ms-flex: 0 0 50px;
     flex: 0 0 370px
 }
 
@@ -28652,7 +28652,7 @@ body.dark-v .slide-container {
 }
 
 .misson-section-v8 .mission-sec .crlce-misz .crlce-list li.v2 {
-    background-color: #41d3bd
+    background-color: #f887bc
 }
 
 .misson-section-v8 .mission-sec .crlce-misz .crlce-list li.v3 {
@@ -28684,7 +28684,7 @@ body.dark-v .slide-container {
 }
 
 .grow-business-v8 .counter-sec-v6 li .counter-cont>h2.clr2 {
-    color: #41d3bd
+    color: #f887bc
 }
 
 .grow-business-v8 .counter-sec-v6 li .counter-cont>h2.clr3 {
@@ -29095,7 +29095,7 @@ body.dark-v .slide-container {
     color: #000;
     font-size: 24px;
     line-height: 30px;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     margin-bottom: 16px
 }
 
@@ -29137,7 +29137,7 @@ body.dark-v .slide-container {
 }
 
 .our-fzt .fzt-icon.v3 {
-    margin-top: 30px
+    margin-top: 0px
 }
 
 .our-fzt .fzt-icon.v3:before {
