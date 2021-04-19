@@ -21590,7 +21590,8 @@ button:focus {
 
 img {
     vertical-align: middle;
-    height: auto
+    height: auto;
+    border-radius: .25rem
 }
 
 a:focus,
@@ -32841,14 +32842,14 @@ polygon.arrow-top {
 }
 
 .map-address {
-    position: absolute;
+    /* position: absolute; */
     top: 50%;
     right: 80px;
     max-width: 590px;
     background-color: #fff;
     border-radius: 25px;
-    transform: translateY(-50%);
-    padding: 100px
+    /* transform: translateY(-50%); */
+    /* padding: 100px */
 }
 
 .map-address>h3 {
