@@ -21666,7 +21666,7 @@ a {
     color: #fff;
     font-size: 20px;
     font-weight: 500;
-    background-color: #f59e31;
+    background-color: #305bce;
     height: 62px;
     line-height: 62px;
     padding: 0 42px;
@@ -33471,8 +33471,8 @@ polygon.arrow-top {
 
 .pricing-v10.clr-default .prices-v10 .price-v10 .btn-default-v10,
 .pricing-v10.clr-default .prices-v10 .price-v10 h2 {
-    color: #f59e31;
-    border-color: #f59e31
+    color: #305bce;
+    border-color: #305bce
 }
 
 .pricing-v10.clr-default .prices-v10 .price-v10 .btn-default-v10:hover {
