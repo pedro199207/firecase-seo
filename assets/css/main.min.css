@@ -42511,7 +42511,7 @@ header.header-v12.v13.pb .light-logo {
     .btn-default.box-shadow-none {height: 50px;line-height: 50px;padding: 0 20px;font-size: 16px;}
     .error-page {padding-bottom: 30px;}
     .projects-v8 {padding: 10px 0 100px;}
-    .page-content {padding-top: 70px;}
+    /* .page-content {padding-top: 70px;} */
     .team-page .sv-title {margin-bottom: 50px;}
     .error-page {padding-bottom: 70px;}
 }
