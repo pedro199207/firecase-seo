@@ -32855,7 +32855,7 @@ polygon.arrow-top {
 .map-address>h3 {
     color: #000;
     font-size: 30px;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     margin-bottom: 17px;
     margin-top: -9px
 }
