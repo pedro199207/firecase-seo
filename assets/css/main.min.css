@@ -25529,7 +25529,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .our-services-sec {
-    padding: 113px 0 101px;
+    padding: 10px 0 10px;
     background-color: #e3eaf6
 }
 
@@ -25590,11 +25590,12 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .our-services-sec .our-services-content .service-card-mile {
-    background-color: #fff;
+    background-color: #f1f6fa;
     padding: 50px 70px 66px;
     position: relative;
     margin-bottom: 60px;
     height: 100%;
+    border-radius: 8px;
     transition: all .4s ease-in-out
 }
 
@@ -28665,7 +28666,7 @@ body.dark-v .slide-container {
 }
 
 .grow-business-v8 {
-    padding: 0px 0 69px
+    padding: 0px 0 0px
 }
 
 .grow-business-v8 .counter-sec-v6 {
@@ -30174,9 +30175,9 @@ body.dark-v .slide-container {
 
 .title-v10>h2 {
     color: #000;
-    font-size: 60px;
+    font-size: 40px;
     line-height: 72px;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     margin-bottom: 26px
 }
 
@@ -31680,7 +31681,7 @@ body.dark-v .slide-container {
 }
 
 .our-services-sec.bg2 {
-    background: #f2f5fa
+    background: #fff
 }
 
 .agy-team-sec {
@@ -33433,7 +33434,7 @@ polygon.arrow-top {
 }
 
 .error-content {
-    max-width: 480px;
+    max-width: 100%;
     margin: 0 auto;
     text-align: center
 }
@@ -33444,7 +33445,7 @@ polygon.arrow-top {
 
 .error-content>h3 {
     color: #000;
-    font-size: 36px;
+    font-size: 50px;
     margin-bottom: 10px
 }
 
