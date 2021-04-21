@@ -33430,7 +33430,7 @@ polygon.arrow-top {
 .error-page {
     /* background-color: #f0f3f9; */
     padding: 7% 0 155px;
-    border-bottom: 1px solid #ddd;
+    /* border-bottom: 1px solid #ddd; */
 }
 
 .error-content {
