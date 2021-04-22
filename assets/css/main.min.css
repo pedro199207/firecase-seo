@@ -25571,7 +25571,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .our-services-sec .our-services-content .svs-slider .slick-next:before,
 .our-services-sec .our-services-content .svs-slider .slick-prev:before {
-    color: #b4bac3;
+    color: #000022;
     font-size: 18px;
     line-height: 45px;
     opacity: 1
@@ -28503,9 +28503,9 @@ body.dark-v .slide-container {
     margin-left: 100px
 }
 
-.banner-v8 {
+/* .banner-v8 {
     padding: 49px 0 100px
-}
+} */
 
 .banner-v8-content .banner-txt-v8 {
     border-bottom: 1px solid #dbdbdb;
@@ -28693,9 +28693,9 @@ body.dark-v .slide-container {
     color: #2f2e42
 }
 
-.grw-content-v8 {
+/* .grw-content-v8 {
     margin-bottom: 138px
-}
+} */
 
 .grw-content-v8 .gr-text {
     max-width: 95%
@@ -30161,7 +30161,7 @@ body.dark-v .slide-container {
 }
 
 .title-v10 {
-    margin-bottom: 89px
+    margin-bottom: 5%
 }
 
 .title-v10>span {
@@ -33429,7 +33429,7 @@ polygon.arrow-top {
 
 .error-page {
     /* background-color: #f0f3f9; */
-    padding: 7% 0 100px;
+    padding: 0% 0 5%;
     border-bottom: 1px solid #ddd;
 }
 
