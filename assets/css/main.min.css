@@ -22216,7 +22216,7 @@ header .header-content .btn-default i {
 }
 
 .testimonial-sec .testimonial-slider .testimo-slider .testimonial-slide {
-    background-color: #fff;
+    background-color: #36F1CD;
     -ms-box-shadow: hsla(203, 7%, 56%, .4) 2.125rem 2.125rem 5rem;
     box-shadow: 2.125rem 2.125rem 5rem hsla(203, 7%, 56%, .4);
     padding: 41px 50px 48px;
@@ -22237,12 +22237,18 @@ header .header-content .btn-default i {
 }
 
 .testimonial-sec .testimonial-slider .testimo-slider .testimonial-slide p {
-    color: #666;
+    color: #000022;
     font-size: 20px;
     line-height: 32px;
-    font-style: italic;
+    /* font-style: italic; */
     margin-bottom: 34px;
     max-width: 400px
+}
+
+.testimonial-sec .testimonial-slider .testimo-slider .testimonial-slide h2 {
+    color: #000022;
+    font-size: 36px;
+    margin-bottom: 20px
 }
 
 .testimonial-sec .testimonial-slider .testimo-slider .testimonial-slide .thmb-row {
@@ -30431,7 +30437,7 @@ body.dark-v .slide-container {
 }
 
 .testimonial-sec.v10 {
-    background-color: #eef0f5;
+    background-color: #fff;
     background-image: inherit;
     background-position: inherit;
     padding-bottom: 180px;
@@ -30468,7 +30474,7 @@ body.dark-v .slide-container {
     width: 45px;
     height: 45px;
     line-height: 45px;
-    background-color: #fff;
+    background-color: #000022;
     border: 1px solid #e5e5e5;
     top: -112px;
     border-radius: 10px
