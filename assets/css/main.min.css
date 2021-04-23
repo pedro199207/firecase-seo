@@ -5259,7 +5259,7 @@ input[type=submit].btn-block {
 
 .badge {
     display: inline-block;
-    padding: .25em .4em;
+    padding: .55em .7em;
     font-size: 75%;
     font-weight: 700;
     line-height: 1;
@@ -6904,7 +6904,7 @@ button.bg-primary:hover {
 }
 
 .bg-secondary {
-    background-color: #6c757d !important
+    background-color: #36F1CD !important
 }
 
 a.bg-secondary:focus,
