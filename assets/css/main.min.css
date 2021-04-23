@@ -22242,7 +22242,7 @@ header .header-content .btn-default i {
     line-height: 32px;
     /* font-style: italic; */
     margin-bottom: 34px;
-    max-width: 400px
+    /* max-width: 400px */
 }
 
 .testimonial-sec .testimonial-slider .testimo-slider .testimonial-slide h2 {
@@ -25578,8 +25578,13 @@ header.v2 .header-content .nav-toggle-btn {
 .our-services-sec .our-services-content .svs-slider .slick-next:before,
 .our-services-sec .our-services-content .svs-slider .slick-prev:before {
     color: #000022;
+    background-color: #36F1CD;
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
     font-size: 18px;
     line-height: 45px;
+    /* top: 20px; */
     opacity: 1
 }
 
@@ -28141,14 +28146,14 @@ body.dark-v .slide-container {
 }
 
 .newslettter-sec-v7 {
-    padding: 44px 0 115px;
+    padding: 44px 0 3%;
 }
 
 .news-letter-v7 .newsletter-text>h2 {
     color: #000;
     font-size: 36px;
     margin-bottom: 4px;
-    text-transform: capitalize
+    /* text-transform: capitalize */
 }
 
 .news-letter-v7 .newsletter-text>span {
@@ -30508,9 +30513,9 @@ body.dark-v .slide-container {
     right: 15px
 }
 
-.testimonial-sec.v10 .testimonial-slider .testimo-slider .testimonial-slide:before {
+/* .testimonial-sec.v10 .testimonial-slider .testimo-slider .testimonial-slide:before {
     color: #d7dbe5
-}
+} */
 
 .partners-section.v10 {
     padding: 95px 0 0
@@ -30537,7 +30542,9 @@ body.dark-v .slide-container {
 }
 
 .post-v10 .post-info {
-    padding: 29px 0 0
+    padding: 33px 25px 33px;
+    background-color: #f1f6fa;
+    border-radius: 8px;
 }
 
 .post-v10 .post-info .category {
@@ -30611,7 +30618,7 @@ body.dark-v .slide-container {
 }
 
 .page-content {
-    padding: 72px 0 120px;
+    padding: 72px 0 5%;
 }
 
 .page-content .container.v-3 {
@@ -33947,7 +33954,7 @@ polygon.arrow-top {
 }
 
 .avl-sec {
-    padding: 140px 0;
+    padding: 5% 0;
 }
 
 .avl-content {
@@ -41992,7 +41999,7 @@ header.header-v12.v13.pb .light-logo {
         padding: 90px 0 45px
     }
     .title-v10 {
-        margin-bottom: 60px
+        margin-bottom: 10%
     }
     .prices-v10 .price-v10 h2 {
         font-size: 42px
