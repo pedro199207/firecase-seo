@@ -25583,7 +25583,7 @@ header.v2 .header-content .nav-toggle-btn {
     height: 50px;
     border-radius: 8px;
     font-size: 18px;
-    line-height: 45px;
+    line-height: 50px;
     /* top: 20px; */
     opacity: 1
 }
@@ -25604,7 +25604,7 @@ header.v2 .header-content .nav-toggle-btn {
     background-color: #f1f6fa;
     padding: 50px 70px 66px;
     position: relative;
-    margin-bottom: 60px;
+    /* margin-bottom: 60px; */
     height: 100%;
     border-radius: 8px;
     transition: all .4s ease-in-out
@@ -30564,7 +30564,7 @@ body.dark-v .slide-container {
 }
 
 .post-v10 .post-info>h2:hover {
-    color: #4c0ee9
+    text-decoration: underline;
 }
 
 .post-v10 .post-info p {
@@ -30701,11 +30701,11 @@ body.dark-v .slide-container {
 .blog-posts-v10.blog-layout1.row {
     margin-bottom: -96px
 }
-
+/*
 .blog-posts-v10 .post-v10 .post-info .category,
 .blog-posts-v10 .post-v10 .post-info>h2:hover {
     color: #f59e31
-}
+} */
 
 .mile_pagination {
     text-align: center;
@@ -35313,8 +35313,8 @@ header.header-v12.v13 .menu-btn-v2>span {
 }
 
 ::selection {
-    background-color: #b99e64;
-    color: #fff;
+    background-color: #36F1CD;
+    color: #000;
     text-shadow: none
 }
 
@@ -38942,9 +38942,9 @@ header.header-v12.v13.pb .light-logo {
     .testimonial-v6-sec .mile-rtz-sec {
         margin-top: 105px
     }
-    .our-services-sec {
+    /* .our-services-sec {
         padding-top: 70px
-    }
+    } */
     .our-services-sec .our-services-content .service-card-mile>h2 {
         font-size: 30px;
         margin-bottom: 12px
@@ -39159,11 +39159,11 @@ header.header-v12.v13.pb .light-logo {
     }
     .grw-content-v8 .gr-text {
         max-width: 100%;
-        margin-bottom: 60px
+        /* margin-bottom: 60px */
     }
-    .grow-business-v8 {
+    /* .grow-business-v8 {
         padding: 90px 0 69px
-    }
+    } */
     .grow-business-v8 .counter-sec-v6 li {
         max-width: 50%;
         -ms-flex: 0 0 50%;
@@ -39822,9 +39822,9 @@ header.header-v12.v13.pb .light-logo {
     .grw-content-v8 .gw-img .gw-text {
         display: none
     }
-    .our-services-sec.bg2 {
+    /* .our-services-sec.bg2 {
         padding-bottom: 40px
-    }
+    } */
     .mile-bottom-footer .btm-copy p {display: block;margin-top: 30px;}
     .footer-v6.v8 .mile-bottom-footer .social-header {margin-top: 40px;}
     .footer-v6 .footer-content-v6 .widget-abt > h2 {margin-bottom: 40px;}
@@ -41469,7 +41469,7 @@ header.header-v12.v13.pb .light-logo {
     .our-services-sec .our-services-content .counter-sec-v6 li .counter-cont > span {max-width: calc(100% - 100px);}
     .counter-sec-v6 {margin-bottom: 40px;}
     .contact-v1-map #gmap_canvas {margin-top: 0;}
-    .grw-content-v8 {margin-bottom: 80px;}
+    /* .grw-content-v8 {margin-bottom: 80px;} */
     .banner-v8-content .banner-txt-v8 {text-align: left;}
     .banner-v8-content .banner-wid p {text-align: left;}
     .wd-inz {justify-content: flex-start;width: 100%;}
@@ -41892,9 +41892,9 @@ header.header-v12.v13.pb .light-logo {
         padding-left: 0;
         width: 100%
     }
-    .grw-content-v8 {
+    /* .grw-content-v8 {
         margin-bottom: 100px
-    }
+    } */
     .title-v8>h2 {
         line-height: 37px
     }
@@ -42195,9 +42195,9 @@ header.header-v12.v13.pb .light-logo {
         max-width: 70%;
         margin-bottom: 60px
     }
-    .error-page {
+    /* .error-page {
         padding: 180px 0 110px
-    }
+    } */
     .error-content>h3 {
         margin-bottom: 20px
     }
