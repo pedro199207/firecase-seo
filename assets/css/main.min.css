@@ -29,6 +29,7 @@
     --danger: #dc3545;
     --light: #f8f9fa;
     --dark: #343a40;
+    --texto-parrafo: #5f6368;
     --breakpoint-xs: 0;
     --breakpoint-sm: 576px;
     --breakpoint-md: 768px;
@@ -21831,7 +21832,7 @@ header .header-content .btn-default i {
 }
 
 .promo-primary-content p {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px;
     line-height: 34px;
     margin-bottom: 72px
@@ -22077,7 +22078,7 @@ header .header-content .btn-default i {
 }
 
 .services-home .services-content .services-card-list .service-card .service-info p {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     line-height: 26px
 }
@@ -22134,7 +22135,7 @@ header .header-content .btn-default i {
 
 .projects-sec-content .mile-project .project-info>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     margin-bottom: 13px
 }
@@ -22273,7 +22274,7 @@ header .header-content .btn-default i {
 
 .testimonial-sec .testimonial-slider .testimo-slider .testimonial-slide .thmb-row .thmb-info span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px
 }
 
@@ -22393,7 +22394,7 @@ header .header-content .btn-default i {
 
 .featured-post-sec .featured-post .featured-post-text>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
@@ -22458,7 +22459,7 @@ header .header-content .btn-default i {
 
 .featured-post-sec .mile-post .mile-info>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     margin-bottom: 11px
 }
@@ -22575,7 +22576,7 @@ header .header-content .btn-default i {
     position: absolute;
     top: 0;
     left: 0;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px;
     transition: all .4s ease-in-out
 }
@@ -22650,7 +22651,7 @@ footer .top-footer .footer-content .get-touch-txt {
 
 footer .top-footer .footer-content .get-touch-txt>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     text-transform: uppercase;
     margin-bottom: 29px
@@ -22695,7 +22696,7 @@ footer .bottom-footer .cp-mile>img {
 
 footer .bottom-footer .cp-mile>p {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     line-height: 16px;
     margin-left: 21px;
@@ -22714,7 +22715,7 @@ footer .bottom-footer .cp-mile>p {
 
 .social-links li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 22px
 }
 
@@ -22966,7 +22967,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .about-us-v2 .abt-nfo .abt-info>span {
     text-transform: uppercase;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px;
     text-transform: capitalize;
     margin-bottom: 36px;
@@ -23024,7 +23025,7 @@ header.v2 .header-content .nav-toggle-btn {
 .abt-v3-sec .abt-v3-content .abt-v-text>span {
     text-transform: uppercase;
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px;
     text-transform: capitalize
 }
@@ -23198,7 +23199,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .latest-projects-v2 .projects-slider .project-slide .project-info>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     margin-bottom: 6px
 }
@@ -23273,7 +23274,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .stories-sec-v2 .testi-sec-v2 .testi-slider-v2 .testi-slide-v2>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px
 }
 
@@ -23296,7 +23297,7 @@ header.v2 .header-content .nav-toggle-btn {
 .stories-sec-v2 .testi-sec-v2 .testi-slider-v2 .slick-next:before,
 .stories-sec-v2 .testi-sec-v2 .testi-slider-v2 .slick-prev:before {
     font-family: lineicons;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 24px
 }
 
@@ -23378,7 +23379,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .partners-sec-v2 .partner-row1 .mile-quote h4 {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px
 }
 
@@ -23515,7 +23516,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .blog-v2-section .blog-v2-items .blog-v2-item .blog-v2-info .meta li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px
 }
 
@@ -23607,7 +23608,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .footer-v2 .ft-widget-one .ft-widget-one-content .ft-newsletter form input {
     width: 100%;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px;
     height: 60px;
     padding: 0 80px 0 30px;
@@ -23628,7 +23629,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .footer-v2 .ft-widget-one .ft-widget-one-content .ft-newsletter .copyright-text {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px
 }
 
@@ -23650,7 +23651,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .footer-v2 .fl-widget-two .fl-widget-two-content>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     text-transform: uppercase;
     margin-bottom: 29px
@@ -23714,7 +23715,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .header-v3 .header-content .head-cat>span {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase
@@ -23783,7 +23784,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .main-banner-v3 .banner-txt p {
-    color: #999;
+    color: var(--texto-parrafo);
     max-width: 380px;
     margin-bottom: 102px
 }
@@ -23916,7 +23917,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .section-title-v3>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px
 }
 
@@ -23974,7 +23975,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .clients-sec-v3 .counter-sec li .count-dv>span {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px;
     line-height: 24px;
     max-width: 100px;
@@ -24103,7 +24104,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .testi-v3-sec .testi-v3-slider .testi-v3-slide>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -24178,7 +24179,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .stay-touch-sec .txh-text>h4 {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 20px;
     margin-bottom: 3px
 }
@@ -24277,7 +24278,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .footer-v3 .footer-content .nav-btm-links li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 700
@@ -24838,7 +24839,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .mile-pagination ul li a span {
     display: inline-block;
-    color: #999
+    color: var(--texto-parrafo)
 }
 
 .mile-sidedar {
@@ -24855,7 +24856,7 @@ header.v2 .header-content .nav-toggle-btn {
     border: 0;
     border-bottom: 1px solid #ccc;
     padding-bottom: 11px;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px
 }
 
@@ -25009,7 +25010,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .mile-sidedar .widget-instagram .insta-head .insta-info>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -25125,7 +25126,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .footer-v5 .widget-title {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 400;
@@ -25148,7 +25149,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .footer-v5 .widget-about .wid-newslettter>h4 {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     margin-bottom: 40px;
     text-transform: uppercase
@@ -25254,7 +25255,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .mile-bottom-footer .social-header li a {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px
 }
 
@@ -25519,7 +25520,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .main-banner-v6 .vl-list li {
     width: 33.33333%;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -25615,7 +25616,7 @@ header.v2 .header-content .nav-toggle-btn {
     position: absolute;
     top: 64px;
     right: 70px;
-    color: #999;
+    color: var(--texto-parrafo);
     text-transform: uppercase;
     font-size: 14px;
     font-weight: 700
@@ -25659,7 +25660,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .our-services-sec .our-services-content .service-card-mile p {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     line-height: 26px
 }
@@ -25774,7 +25775,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .recent-works-v6-sec .rc-work-content .rc-work-post .rc-info>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 6px
@@ -25899,7 +25900,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .certicications-sec .certificate-details .date {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     -ms-flex: 0 0 100px;
     flex: 0 0 100px;
@@ -26043,7 +26044,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .testimonial-v6-sec .testi-sec-v6 .testi-slide-v6>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     margin-bottom: 48px
 }
@@ -26484,7 +26485,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .header-v4 .header-content-v4 .sociz-links li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -27200,7 +27201,7 @@ body.dark-v .slide-container {
 
 .header-v7 .header-v7-btm .social-links li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px
 }
 
@@ -27409,7 +27410,7 @@ body.dark-v .slide-container {
     position: relative;
     font-size: 14px;
     line-height: 30px;
-    color: #999;
+    color: var(--texto-parrafo);
     cursor: pointer;
     z-index: 8;
     margin: 0 48px;
@@ -27767,7 +27768,7 @@ body.dark-v .slide-container {
 
 .book-v7-sec .book-form .bk-form input {
     width: 100%;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     background-color: inherit;
     border: 0;
@@ -27908,7 +27909,7 @@ body.dark-v .slide-container {
 
 .solu-upcoming .uo-com-row .ll-list li>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     margin-bottom: 4px
 }
@@ -28098,7 +28099,7 @@ body.dark-v .slide-container {
     left: 100%;
     width: 4px;
     height: 4px;
-    background-color: #999;
+    background-color: var(--texto-parrafo);
     border-radius: 50%;
     transform: translateY(-50%)
 }
@@ -28113,7 +28114,7 @@ body.dark-v .slide-container {
 
 .blog-post-v7 .blog-info .meta li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase
@@ -28315,7 +28316,7 @@ body.dark-v .slide-container {
 
 .widget-language ul li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px
 }
 
@@ -28532,7 +28533,7 @@ body.dark-v .slide-container {
 }
 
 .banner-v8-content .banner-txt-v8 p {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px;
     line-height: 34px;
     margin-bottom: 54px;
@@ -29727,7 +29728,7 @@ body.dark-v .slide-container {
 
 .services_v9 .sv-text-v9>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -29992,7 +29993,7 @@ body.dark-v .slide-container {
 
 .footer-content-v9 .newz-form .input__field--makiko {
     font-size: 16px;
-    color: #999;
+    color: var(--texto-parrafo);
     font-weight: 400
 }
 
@@ -30222,7 +30223,7 @@ body.dark-v .slide-container {
     font-size: 16px;
     line-height: 30px;
     margin-bottom: 82px;
-    color: #999
+    color: var(--texto-parrafo)
 }
 
 .abt-v10-txt .pl-btn {
@@ -30374,7 +30375,7 @@ body.dark-v .slide-container {
 
 .prices-v10 .price-v10>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     margin-bottom: 21px
 }
@@ -30395,7 +30396,7 @@ body.dark-v .slide-container {
 
 .prices-v10 .price-v10 h2>span {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px;
     font-weight: 400
 }
@@ -30576,7 +30577,7 @@ body.dark-v .slide-container {
 
 .post-v10 .post-info .posted-on {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -30681,7 +30682,7 @@ body.dark-v .slide-container {
 
 .page-sec-title>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
@@ -30734,7 +30735,7 @@ body.dark-v .slide-container {
 
 .mile_pagination .pagination li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     text-align: center;
     border: 0;
@@ -30791,7 +30792,7 @@ body.dark-v .slide-container {
 }
 
 .lt-news .blog-posts-v10 .post-v10 .post-info .category {
-    color: #999
+    color: var(--texto-parrafo)
 }
 
 .blog-main-content {
@@ -30862,7 +30863,7 @@ body.dark-v .slide-container {
     left: 100%;
     width: 4px;
     height: 4px;
-    background-color: #999;
+    background-color: var(--texto-parrafo);
     border-radius: 50%;
     transform: translateY(-50%)
 }
@@ -30910,7 +30911,7 @@ body.dark-v .slide-container {
 
 .blog-sidebar .widget-search form input {
     width: 100%;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     padding: 0 30px;
     height: 60px;
@@ -30939,7 +30940,7 @@ body.dark-v .slide-container {
 .blog-sidebar .widget-categories ul li {
     border-bottom: 1px solid #e7ebf6;
     padding: 15px 0;
-    color: #999;
+    color: var(--texto-parrafo);
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
@@ -30954,7 +30955,7 @@ body.dark-v .slide-container {
 .blog-sidebar .widget-categories ul li a {
     margin-right: auto;
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 700
@@ -30963,7 +30964,7 @@ body.dark-v .slide-container {
 .blog-sidebar .widget-categories ul li>span {
     margin-left: auto;
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -30993,7 +30994,7 @@ body.dark-v .slide-container {
 
 .blog-sidebar .wd-posts .pp-post>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -31013,7 +31014,7 @@ body.dark-v .slide-container {
 
 .blog-sidebar .widget-tags li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     border: 1px solid #dbdbdb;
     border-radius: 30px;
@@ -31083,7 +31084,7 @@ body.dark-v .slide-container {
 }
 
 .single-post-layout1 .blog-posts-layout2 .bg-post .bg-post-info .pst-large span {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     margin-top: 19px;
     display: block
@@ -31128,7 +31129,7 @@ body.dark-v .slide-container {
 .single-post-layout1 .blog-posts-layout2 .bg-post .bg-post-info blockquote>span {
     display: block;
     font-size: 16px;
-    color: #999;
+    color: var(--texto-parrafo);
     font-style: italic
 }
 
@@ -31161,7 +31162,7 @@ body.dark-v .slide-container {
 
 .single-post-layout1 .blog-posts-layout2 .bg-post .bg-post-info .post-cont .post-tags li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     border: 1px solid #dbdbdb;
     border-radius: 30px;
@@ -31264,7 +31265,7 @@ body.dark-v .slide-container {
 
 .single-post-layout1 .blog-posts-layout2 .bg-posted-author .author-info>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     margin-bottom: 12px
 }
@@ -31342,7 +31343,7 @@ body.dark-v .slide-container {
 
 .post-comments-list .post-comment .comment-info>span {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     margin-left: 15px
 }
@@ -31409,7 +31410,7 @@ body.dark-v .slide-container {
 .post-comment-form .form-group input,
 .post-comment-form .form-group textarea {
     width: 100%;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     border: 1px solid #d4d4d4;
     border-radius: 5px
@@ -31484,7 +31485,7 @@ body.dark-v .slide-container {
     left: 100%;
     width: 4px;
     height: 4px;
-    background-color: #999;
+    background-color: var(--texto-parrafo);
     border-radius: 50%;
     transform: translateY(-50%)
 }
@@ -31529,7 +31530,7 @@ body.dark-v .slide-container {
 
 .single-post-layout2 .shared-col>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     margin-bottom: 38px
 }
@@ -31586,7 +31587,7 @@ body.dark-v .slide-container {
 
 .single-post-layout2 .shared-col .social-count li>span {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     position: relative;
     top: -6px;
@@ -31640,7 +31641,7 @@ body.dark-v .slide-container {
 
 .about-v-title>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 700;
@@ -31689,7 +31690,7 @@ body.dark-v .slide-container {
 
 .agency-banner-info blockquote>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -31742,7 +31743,7 @@ body.dark-v .slide-container {
 
 .ag-teams .ag-team>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -31759,7 +31760,7 @@ body.dark-v .slide-container {
 }
 
 .ag-teams .join-team>i {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 48px;
     margin-bottom: 9px
 }
@@ -31893,7 +31894,7 @@ body.dark-v .slide-container {
 }
 
 .about-v9-content.v2 .about-v9-txt>span {
-    color: #999
+    color: var(--texto-parrafo)
 }
 
 .about-v9-content.v2 .about-v9-txt>h2 {
@@ -31944,7 +31945,7 @@ body.dark-v .slide-container {
 }
 
 .gray-color {
-    color: #999 !important
+    color: var(--texto-parrafo) !important
 }
 
 .counter-sec-v6.br-top {
@@ -32105,7 +32106,7 @@ body.dark-v .slide-container {
 
 .about_me_content .about_txt>span {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 47px;
@@ -32120,7 +32121,7 @@ body.dark-v .slide-container {
 }
 
 .about_me_content .about_txt>p {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px;
     line-height: 30px;
     margin-bottom: 80px
@@ -32128,7 +32129,7 @@ body.dark-v .slide-container {
 
 .about_me_content .about_txt>a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 48px
 }
 
@@ -32225,7 +32226,7 @@ body.dark-v .slide-container {
 
 .resume_details .resume_mile .edu-exp .edu-knw>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -32254,7 +32255,7 @@ body.dark-v .slide-container {
 
 .resume_details .resume_mile .exp-div>ul li>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -32300,7 +32301,7 @@ body.dark-v .slide-container {
 
 .resume_details .resume_mile .awrds-info>ul li>span {
     width: 100px;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px
 }
 
@@ -32316,7 +32317,7 @@ body.dark-v .slide-container {
 }
 
 #more-arrows:hover polygon {
-    fill: #999;
+    fill: var(--texto-parrafo);
     transition: all .2s ease-out
 }
 
@@ -32329,7 +32330,7 @@ body.dark-v .slide-container {
 }
 
 polygon {
-    fill: #999;
+    fill: var(--texto-parrafo);
     transition: all .2s ease-out
 }
 
@@ -32385,7 +32386,7 @@ polygon.arrow-top {
 
 .testi-v-sec .tv-col .tv-col-info>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px
 }
 
@@ -32420,7 +32421,7 @@ polygon.arrow-top {
 .sv-title>span {
     display: block;
     text-transform: uppercase;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px;
     font-weight: 700;
     margin-bottom: 30px;
@@ -32546,7 +32547,7 @@ polygon.arrow-top {
 }
 
 .pricing-v10.service-v .pl-btm p {
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 18px
 }
 
@@ -32876,7 +32877,7 @@ polygon.arrow-top {
 
 .map-address>h3>span {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-weight: 400
 }
 
@@ -32905,7 +32906,7 @@ polygon.arrow-top {
 
 .map-address .call-dir {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 12px;
     text-transform: uppercase;
     font-weight: 700;
@@ -33055,7 +33056,7 @@ polygon.arrow-top {
 
 .map-oth .map-address>h3>span {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-weight: 400
 }
 
@@ -33084,7 +33085,7 @@ polygon.arrow-top {
 
 .map-oth .map-address .call-dir {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 12px;
     text-transform: uppercase;
     font-weight: 700;
@@ -33238,7 +33239,7 @@ polygon.arrow-top {
 
 .teams .team-cl .team-fig>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 14px
 }
 
@@ -33296,7 +33297,7 @@ polygon.arrow-top {
 
 .filters-nav li a {
     display: inline-block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     font-weight: 500;
     height: 40px;
@@ -33765,7 +33766,7 @@ polygon.arrow-top {
 
 .ppr-sldr .pp-info .pp-dt>span {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px
 }
 
@@ -34025,7 +34026,7 @@ polygon.arrow-top {
     line-height: 40px;
     border: 1px solid #ebebeb;
     font-size: 19px;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     text-align: center
 }
@@ -34145,7 +34146,7 @@ polygon.arrow-top {
     line-height: 40px;
     text-align: center;
     border-radius: 50%;
-    color: #999;
+    color: var(--texto-parrafo);
     border: 1px solid #eaeaea;
     font-size: 16px
 }
@@ -34378,7 +34379,7 @@ footer.bg-white {
 }
 
 .header-v6.v11 .header-content-v6 nav ul li:before {
-    background-color: #999
+    background-color: var(--texto-parrafo)
 }
 
 .header-v6.v11 .header-content-v6 nav ul li a,
@@ -34851,7 +34852,7 @@ footer.footer-v9.v11 .footer-content-v9 .widget-newsletter p {
 
 footer.footer-v9.v11 .footer-content-v9 .newz-form .input--makiko {
     background-color: #f0f3f9;
-    color: #999
+    color: var(--texto-parrafo)
 }
 
 footer.footer-v9.v11 .footer-content-v9 .newz-form .input__label-content--makiko {
@@ -34883,7 +34884,7 @@ footer.footer-v9.v11 .btm-footer .cp-txt {
 }
 
 footer.footer-v9.v11 .btm-footer .widget-language ul li a {
-    color: #999
+    color: var(--texto-parrafo)
 }
 
 footer.footer-v9.v11 .btm-footer .widget-language ul li a:hover {
@@ -35271,7 +35272,7 @@ header.header-v12.v13 .menu-btn-v2>span {
 
 .social-vertical li a {
     display: block;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 1.5rem
 }
 
@@ -35288,7 +35289,7 @@ header.header-v12.v13 .menu-btn-v2>span {
     position: fixed;
     bottom: 4rem;
     right: 4.375rem;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: .875rem;
     line-height: 1.25;
     text-align: right;
@@ -35637,7 +35638,7 @@ header.header-v12.v13 .menu-btn-v2>span {
     width: 100%;
     background-color: #fff;
     border: 0;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 16px;
     border-radius: 3px
 }
@@ -36248,7 +36249,7 @@ body.hp13 #pp-nav {
 .mobile-menu>li {
     display: block;
     border-bottom: 1px solid #eee;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 20px;
     position: relative
 }
@@ -36284,7 +36285,7 @@ body.hp13 #pp-nav {
     position: absolute;
     top: 50%;
     right: 20px;
-    color: #999;
+    color: var(--texto-parrafo);
     font-size: 36px;
     font-family: lineicons;
     transform: translateY(-50%);
