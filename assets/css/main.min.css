@@ -25559,7 +25559,7 @@ header.v2 .header-content .nav-toggle-btn {
 
 .our-services-sec .our-services-content .svs-slider .slick-next,
 .our-services-sec .our-services-content .svs-slider .slick-prev {
-    top: -95px;
+    /* top: -95px; */
     border: 0
 }
 
