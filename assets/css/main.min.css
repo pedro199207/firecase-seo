@@ -25602,7 +25602,7 @@ header.v2 .header-content .nav-toggle-btn {
 }
 
 .our-services-sec .our-services-content .service-card-mile {
-    background-color: #f1f6fa;
+    background-color: #f9fafc;
     padding: 50px 70px 66px;
     position: relative;
     /* margin-bottom: 60px; */
@@ -30545,7 +30545,7 @@ body.dark-v .slide-container {
 
 .post-v10 .post-info {
     padding: 33px 25px 33px;
-    background-color: #f1f6fa;
+    background-color: #f9fafc;
     border-radius: 8px;
 }
 
@@ -33724,7 +33724,7 @@ polygon.arrow-top {
 }
 
 .ppr-sldr {
-    background-color: #f1f6fa;
+    background-color: #f9fafc;
     padding: 64px 70px;
     border-radius: 10px
 }
@@ -33863,7 +33863,7 @@ polygon.arrow-top {
 .pp-tabs-sec .nav-tabs {
     margin-top: 110px;
     display: inline-block;
-    background-color: #f1f6fa;
+    background-color: #f9fafc;
     border: 0;
     height: 40px;
     line-height: 40px;
@@ -42367,7 +42367,7 @@ header.header-v12.v13.pb .light-logo {
         width: 100%;
         display: block;
         text-align: center;
-        background-color: #f1f6fa
+        background-color: #f9fafc
     }
     .pp-tabs-sec .nav-tabs {
         width: 100%
@@ -42550,7 +42550,7 @@ header.header-v12.v13.pb .light-logo {
 
 /*Comentario de Card Gris*/
 .bg-card {
-  background-color: #f1f6fa;
-  border: 1px solid #f1f6fa;
+  background-color: #f9fafc;
+  border: 1px solid #f9fafc;
   border-radius: 10px;
 }
