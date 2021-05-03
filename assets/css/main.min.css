@@ -41252,10 +41252,10 @@ header.header-v12.v13.pb .light-logo {
     .counter-sec-v6 {
         margin-bottom: 0
     }
-    .ag-title,
+    /* .ag-title,
     .pt-logos .pt-logo {
         text-align: center
-    }
+    } */
     .lets-sec .lets-content>h2 {
         font-size: 32px;
         line-height: 42px
