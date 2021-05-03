@@ -29114,6 +29114,14 @@ body.dark-v .slide-container {
     margin-bottom: 16px
 }
 
+.our-fzt>h2 {
+    color: #000022;
+    font-size: 32px;
+    line-height: 36px;
+    /* text-transform: capitalize; */
+    margin-bottom: 16px
+}
+
 .our-fzt>h3:hover {
     color: #000022
 }
