@@ -28733,7 +28733,7 @@ body.dark-v .slide-container {
 
 .grw-content-v8 .gr-text p {
     color: #666;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 30px;
     margin-bottom: 50px
 }
@@ -28853,7 +28853,7 @@ body.dark-v .slide-container {
 
 .title-v8>p {
     color: #666;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 30px;
     max-width: 520px;
     margin: 0 auto;
@@ -29117,7 +29117,7 @@ body.dark-v .slide-container {
 .our-fzt>h2 {
     color: #000022;
     font-size: 32px;
-    line-height: 36px;
+    line-height: 32px;
     /* text-transform: capitalize; */
     margin-bottom: 16px
 }
@@ -31645,7 +31645,7 @@ body.dark-v .slide-container {
 
 .about-v-title {
     max-width: 100%;
-    margin-bottom: 100px;
+    margin-bottom: 3%;
 }
 
 .about-v-title>span {
@@ -31654,7 +31654,7 @@ body.dark-v .slide-container {
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 700;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .about-v-title>h2 {
