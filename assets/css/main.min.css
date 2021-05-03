@@ -31678,9 +31678,9 @@ body.dark-v .slide-container {
 
 .agency-banner-info>p {
     color: #666;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 36px;
-    margin-bottom: 83px
+    margin-bottom: 5%
 }
 
 .agency-banner-info blockquote p {
@@ -31713,7 +31713,7 @@ body.dark-v .slide-container {
 
 .ag-title {
     max-width: 870px;
-    margin-bottom: 110px
+    margin-bottom: 5%
 }
 
 .ag-title>h3 {
