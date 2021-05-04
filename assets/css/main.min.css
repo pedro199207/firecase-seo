@@ -33322,7 +33322,7 @@ polygon.arrow-top {
 }
 
 .career-page {
-    padding: 65px 0 120px;
+    padding: 0px 0 120px;
 }
 
 .career-page .container {
@@ -33432,7 +33432,7 @@ polygon.arrow-top {
   color: #000022;
   font-size: 48px;
   font-weight: 400;
-  margin-bottom: 5%;
+  margin-bottom: 7%;
 }
 
 .career-single .cr-single-content ul li {
@@ -40486,6 +40486,11 @@ header.header-v12.v13.pb .light-logo {
         line-height: 52px
     }
     .career-single .cr-single-content>h2 {
+      font-size: 28px;
+      line-height: 42px;
+    }
+    .career-single .cr-single-content>h1 {
+      font-weight: 700;
       font-size: 28px;
       line-height: 42px;
     }
