@@ -22567,7 +22567,7 @@ header .header-content .btn-default i {
 }
 
 .contact-sec .contact-form .form-group textarea {
-    height: 200px;
+    height: 100px;
     padding-bottom: 10px;
     vertical-align: middle
 }
@@ -32997,7 +32997,7 @@ polygon.arrow-top {
 }
 
 .contact-sec.no-bg {
-    padding: 115px 0 120px;
+    padding: 5% 0 120px;
     border-bottom: 0;
 }
 
@@ -33322,7 +33322,7 @@ polygon.arrow-top {
 }
 
 .career-page {
-    padding: 0px 0 120px;
+    padding: 0px 0 0px;
 }
 
 .career-page .container {
