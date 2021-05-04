@@ -33420,20 +33420,19 @@ polygon.arrow-top {
     margin-top: 80px
 }
 
-.career-single .cr-single-content>h1>strong {
+.career-single .cr-single-content>h1 {
     font-weight: 700;
     color: #000022;
     font-size: 48px;
-    margin-bottom: 5%;
-    margin-top: 1%
+    margin-bottom: 1%;
+    margin-top: 2%
 }
 
-.career-single .cr-single-content>h1 {
+.career-single .cr-single-content>h2 {
   color: #000022;
   font-size: 48px;
   font-weight: 400;
   margin-bottom: 5%;
-  margin-top: 5%
 }
 
 .career-single .cr-single-content ul li {
@@ -40485,6 +40484,10 @@ header.header-v12.v13.pb .light-logo {
     .about-v-title>h2 {
         font-size: 40px;
         line-height: 52px
+    }
+    .career-single .cr-single-content>h2 {
+      font-size: 28px;
+      line-height: 42px;
     }
     .agy-team-sec {
         padding: 110px 0 139px
