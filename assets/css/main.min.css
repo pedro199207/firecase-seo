@@ -2090,7 +2090,7 @@ pre code {
 }
 
 .hs-input {
-  background-color: red;!important
+  background-color: red!important;
 }
 
 @media (prefers-reduced-motion:reduce) {
