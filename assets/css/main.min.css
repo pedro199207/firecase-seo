@@ -29082,7 +29082,7 @@ body.dark-v .slide-container {
 }
 
 .our-fzt:before {
-    /* content: ""; */
+    content: "";
     position: absolute;
     bottom: 40px;
     left: 25px;
