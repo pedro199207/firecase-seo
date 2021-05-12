@@ -34010,6 +34010,15 @@ polygon.arrow-top {
     margin-top: 5%;
 }
 
+@media screen and (max-width:768px) {
+  .avl-content>h2 {
+      color: #000022;
+      font-size: 36px;
+      margin-bottom: 5%;
+      margin-top: 5%;
+  }
+}
+
 .avl-content>h3 {
     color: #000022;
     font-size: 18px;
