@@ -30195,7 +30195,7 @@ body.dark-v .slide-container {
     font-size: 16px;
     text-transform: uppercase;
     display: block;
-    margin-bottom: 19px
+    /* margin-bottom: 19px */
 }
 
 .title-v10>h2 {
