@@ -33329,6 +33329,7 @@ polygon.arrow-top {
     padding: 0px 0 0px;
 }
 
+
 .career-page .container {
     max-width: 1200px;
     padding: 0 15px
@@ -42238,8 +42239,9 @@ header.header-v12.v13.pb .light-logo {
         max-width: 100%
     }
     .career-single {
-        margin-top: -20px
+        margin-top: 35%;
     }
+
     .career-single .cr-single-content {
         margin-top: 30px
     }
