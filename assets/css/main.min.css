@@ -42604,7 +42604,7 @@ header.header-v12.v13.pb .light-logo {
 
 .alert-soft-dark {
     color: #132144;
-    background-color: #000022;
+    background-color: #f9fafc;
     border-radius: 10px
 }
 
@@ -42617,14 +42617,46 @@ header.header-v12.v13.pb .light-logo {
 }
 
 .alert-title {
-    color: #fff;
-    font-size: 24px;
-    font-weight: 400;
+    color: #000022;
+    font-size: 32px;
+    font-weight: 700;
     /* line-height: 50px; */
     margin-bottom: 28px;
 }
 
 .alert-p {
   font-size: 18px;
-  color: #C1CFDA
+  color: #666
+}
+
+
+.our-fzt2 {
+    background-color: #fff;
+    border: 1px solid #eaeaea;
+    padding: 33px 25px 33px;
+    position: relative;
+    height: 100%
+}
+
+.our-fzt2:before {
+    content: "";
+    position: absolute;
+    bottom: 40px;
+    left: 25px;
+    width: 20px;
+    height: 1px;
+    background-color: #000
+}
+
+.our-fzt2:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 4px;
+    background-color: #000022;
+    opacity: 0;
+    visibility: hidden;
+    transition: all .4s ease-in-out
 }
