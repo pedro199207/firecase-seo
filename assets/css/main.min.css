@@ -30348,6 +30348,7 @@ body.dark-v .slide-container {
     padding: 80px 50px 70px;
     height: 100%;
     text-align: center;
+    border-radius: 8px;
     position: relative;
     transition: all .4s ease-in-out
 }
