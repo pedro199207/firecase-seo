@@ -28537,6 +28537,12 @@ body.dark-v .slide-container {
     margin-bottom: 28px
 }
 
+@media only screen and (max-width: 480px)
+.banner-v8-content .banner-txt-v8>h1 {
+    font-size: 40px;
+    line-height: 51px;
+}
+
 .banner-v8-content .banner-txt-v8 p {
     color: var(--texto-parrafo);
     font-size: 18px;
@@ -29561,9 +29567,9 @@ body.dark-v .slide-container {
     height: 50px;
     line-height: 50px;
     border-radius: 50%;
-    background-color: #e7cca9;
+    background-color: #36f1cd;
     font-size: 18px;
-    color: #0f2f65;
+    color: #000022;
     margin-right: 11px;
     text-align: center;
     position: relative;
@@ -29577,7 +29583,7 @@ body.dark-v .slide-container {
     left: -4px;
     width: 56px;
     height: 56px;
-    background-color: #e7cca9;
+    /* background-color: #e7cca9; */
     opacity: .5;
     visibility: hidden;
     transform: scale(.8);
@@ -29599,7 +29605,7 @@ body.dark-v .slide-container {
 
 .view-btn .vt {
     display: inline-block;
-    color: #0f2f65;
+    color: #000022;
     font-weight: 700;
     font-size: 14px;
     text-transform: uppercase;
@@ -35391,7 +35397,7 @@ header.header-v12.v13 .menu-btn-v2>span {
 
 ::-webkit-scrollbar-thumb {
     cursor: pointer;
-    background: #b99e64
+    background: #000022
 }
 
 .slide-container .misson-section-v8 {
